@@ -18,7 +18,7 @@
                   `(str, path)` returning the renderer.
       `firebug`   Emits debug infos in the generated css that can
                   be used by the FireStylus Firebug plugin
-      `sassDebug` Emits Sass-style debug infos that can be read
+      `sourcemaps`Emits Sourcemap debug infos that can be read
                   by the Chrome Developer Tools
       `linenos`   Emits comments in the generated css indicating
                   the corresponding stylus line
